@@ -1,0 +1,17 @@
+body {
+	background: #ff839c;
+	height: 100vh;
+	margin: auto;
+}
+
+svg {
+	display: block;
+	margin: auto;
+}
+.main {
+	display: flex;
+	padding: 1em;
+	height: 80vh;
+	justify-content: center;
+	align-items: middle;
+}
